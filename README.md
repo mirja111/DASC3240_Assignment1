@@ -1,1 +1,2 @@
 # DASC3240_Assignment1
+The assignment analyses tree community data from 28 secondary forest plots in Hong Kong, based on Abbas et al. (2019) Ecological Indicators. The tasks include: (1) calculating the total abundance of dominant tree species per plot and visualising its relationship with forest age, and (2) visualising tree species compositions across forest age groups using two dimension reduction techniques: Principal Component Analysis (PCA) and Non-metric Multidimensional Scaling (NMDS) applied to relative abundance data.
